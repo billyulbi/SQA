@@ -34,7 +34,12 @@ by Abu Sayed Mahfuz (Author)
 | 7.   | Sabtu, 01/07/23  | 714222072 | Bernadus Billy Riantono| ✔️ |Test Plant-|
 |      |                  | 714222073 | Ardini Yuanita Lubis	 | ✔️ |-manual trace project testing-|
 |      |                  | 714222074 | Yadi Mulyadi        	 | ✔️ |-report testing|
-
+| 8.   | Jumat, 14/07/23  | 714222072 | Bernadus Billy Riantono| ✔️ | Asessment|
+|      |                  | 714222073 | Ardini Yuanita Lubis	 | ✔️ | Asessment|
+|      |                  | 714222074 | Yadi Mulyadi        	 | ✔️ | Asessment|
+| 9.   | Sabtu, 15/07/23  | 714222072 | Bernadus Billy Riantono| ✔️ |Test Plant-|
+|      |                  | 714222073 | Ardini Yuanita Lubis	 | ✔️ |-manual trace project testing-|
+|      |                  | 714222074 | Yadi Mulyadi        	 | ✔️ |-report testing|
 
 
 # Deskripsi Perkuliahan dan Penilaian
