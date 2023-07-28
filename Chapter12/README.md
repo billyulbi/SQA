@@ -525,36 +525,36 @@
 
 -       Resource-based criteria:
 
-	- Stop when you run out of time.
-	- Stop when you run out of money.
-	- Irresponsible ) quality/other problems.
+	- Berhenti ketika Anda kehabisan waktu.
+	- Berhenti ketika Anda kehabisan uang.
+	- Tidak bertanggung jawab masalah kualitas/lainnya.
 
 -       Quality-based criteria:
 
-	- Stop when quality goals reached.
-	- Direct quality measure: reliability
+	- Berhenti ketika tujuan kualitas tercapai.
+	- Ukuran kualitas langsung: keandalan (Reliability)
 
-		- resemble actual customer usages
+		- menyerupai penggunaan pelanggan yang sebenarnya
 		
-	- Indirect quality measure: coverage.
-	- Other surrogate: activity completion.
-	- Above in decreasing desirability.
+	- Ukuran kualitas tidak langsung: coverage.
+	- Pengganti lainnya: penyelesaian aktivitas.
+	- Di atas dalam penurunan keinginan.
 
 # Usage-Based Testing and OP
 
 -       Usage-based statistical testing:
 
-	- actual usage and scenarios/information
-	- captured in operational profiles (OPs)
-	- simulated in testing environment
+	- penggunaan aktual dan skenario/informasi
+	- ditangkap dalam profil operasional (OP)
+	- disimulasikan dalam lingkungan pengujian
 
-		(too numerous => random sampling)
+		(terlalu banyak => pengambilan sampel acak)
 
 -       Applicability
 
-	- final stages of testing.
+	- tahap akhir pengujian.
 	- particularly system/acceptance testing.
-	- use with s/w reliability engineering.
+	- pakai s/w reliability engineering.
 
 -       Termination criteria: reliability goals
 
@@ -562,15 +562,15 @@
 
 -       Coverage-based testing:
 
-	- systematic testing based on formal (BBT/WBT) models and techniques
-	- coverage measures defined for models
+	- pengujian sistematis berdasarkan model dan teknik formal (BBT/WBT).
+	- ukuran coverage yang ditentukan untuk model
 	- testing managed by coverage goals
 
 -       Applicability
 
-	- all stages of testing.
-	- particularly unit and component testing.
-	- later phases at high abstraction levels.
+	- semua tahapan pengujian.
+	- khususnya pengujian unit dan komponen.
+	- fase selanjutnya pada tingkat abstraksi tinggi.
 
 -       Termination criteria: coverage goals
 
@@ -578,15 +578,15 @@
 
 -       Instantiation of Fig 6.1 (p.69), but,
 
-	- with a formalized strategies/goals,
-	- based on formal models and techniques,
-	- managed by termination criteria.
+	- dengan strategi/tujuan yang diformalkan,
+	- berdasarkan model dan teknik formal,
+	- dikelola oleh kriteria terminasi.
 
 -       Steps in model construction and usage:
 
-	- Define the model, usually represented as graphs and relations.
-	- "Check" individual elements:
-	- "Test": derive (sensitize) test cases and then execute them.
+	- Tentukan model, biasanya direpresentasikan sebagai grafik dan relasi.
+	- "Periksa" elemen individual:
+	- "Test": dapatkan (sensitisasi) kasus uji dan kemudian jalankan.
 
 . Result checking and followup.
 
