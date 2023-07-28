@@ -7,7 +7,7 @@ Software Quality Engineering
 
 Tian Siyuan <tiansiyuan@gmail.com>
 
-# Chapter 2: What Is Quality?
+# What Is Quality?
 
 - 	  Perspectives and Expectations
 
