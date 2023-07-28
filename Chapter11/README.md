@@ -191,6 +191,10 @@
 	-      hazard elimination/reduction/control
 	-      damage control
 
+
+
+
+
 # QA in Context
 
 -       Defect Handling
