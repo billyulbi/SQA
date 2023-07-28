@@ -1,12 +1,5 @@
 # Chapter 11
 
-Software Quality Engineering
-============================
-
-        Testing, Quality Assurance, and Quantiable Improvement
-
-Tian Siyuan <tiansiyuan@gmail.com>
-
 # Quality Assurance (QA)
 
 -		 QA as Dealing with Defect
