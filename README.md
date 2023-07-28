@@ -34,13 +34,21 @@ by Abu Sayed Mahfuz (Author)
 | 7.   | Sabtu, 01/07/23  | 714222072 | Bernadus Billy Riantono| ✔️ |Test Plant-|
 |      |                  | 714222073 | Ardini Yuanita Lubis	 | ✔️ |-manual trace project testing-|
 |      |                  | 714222074 | Yadi Mulyadi        	 | ✔️ |-report testing|
-| 8.   | Jumat, 14/07/23  | 714222072 | Bernadus Billy Riantono| ✔️ | Asessment|
-|      |                  | 714222073 | Ardini Yuanita Lubis	 | ✔️ | Asessment|
-|      |                  | 714222074 | Yadi Mulyadi        	 | ✔️ | Asessment|
-| 9.   | Sabtu, 15/07/23  | 714222072 | Bernadus Billy Riantono| ✔️ |Test Plant-|
+| 8.   | Jumat, 7/07/23  | 714222072 | Bernadus Billy Riantono| ✔️ | Test Pra Asessment|
+|      |                  | 714222073 | Ardini Yuanita Lubis	 | ✔️ | Test Pra Asessment|
+|      |                  | 714222074 | Yadi Mulyadi        	 | ✔️ | Test Pra Asessment|
+| 9.   | Sabtu, 8/07/23  | 714222072 | Bernadus Billy Riantono| ✔️ |Test Plant-|
 |      |                  | 714222073 | Ardini Yuanita Lubis	 | ✔️ |-manual trace project testing-|
 |      |                  | 714222074 | Yadi Mulyadi        	 | ✔️ |-report testing|
-
+| 10   | Jumat, 14/07/23  | 714222072 | Bernadus Billy Riantono| ✔️ |Test Plant-|
+|      |                  | 714222073 | Ardini Yuanita Lubis	 | ✔️ |-manual trace project testing-|
+|      |                  | 714222074 | Yadi Mulyadi        	 | ✔️ |-report testing|
+| 11   | Jumat, 28/07/23  | 714222072 | Bernadus Billy Riantono| ✔️ |Test Plant-|
+|      |                  | 714222073 | Ardini Yuanita Lubis	 | ✔️ |-manual trace project testing-|
+|      |                  | 714222074 | Yadi Mulyadi        	 | ✔️ |-report testing|
+| 12   | Sabtu, 29/07/23  | 714222072 | Bernadus Billy Riantono| ✔️ |Test Plant-|
+|      |                  | 714222073 | Ardini Yuanita Lubis	 | ✔️ |-manual trace project testing-|
+|      |                  | 714222074 | Yadi Mulyadi        	 | ✔️ |-report testing|
 
 # Deskripsi Perkuliahan dan Penilaian
 ## Penilaian 
