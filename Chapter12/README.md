@@ -8,7 +8,15 @@
 
 -       SQE in Software Process
 
-
+# Step SQE Testing ?
+- Viramide Testing (Unit testing, Integration, End to End user)
+- Integration : Rest API, Modul
+- End to ENd User : User Interface
+- Black Box, White Box, Grey Box
+  a. Manual testing (Harus Bisa)
+  b. UAT (User Acceptence Test)
+  c. Tools/Robot (Automatic testing) - Virtual machine (Postman/Katalone, Selenium, Browser Stack, Sikulix)
+  
 # QA to SQE
 
 -       QA activities need additional support:
