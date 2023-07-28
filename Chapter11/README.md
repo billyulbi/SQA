@@ -7,7 +7,7 @@ Software Quality Engineering
 
 Tian Siyuan <tiansiyuan@gmail.com>
 
-# Chapter 3. Quality Assurance (QA)
+# Quality Assurance (QA)
 
 -		 QA as Dealing with Defect
 
