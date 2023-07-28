@@ -33,7 +33,7 @@
 
 # QA Classification
 
-![](../pics/3-1.png)
+![image](https://github.com/rplulbi/SQA/assets/15622730/3a46441b-7aea-4d85-8043-d571b1e1fd3d)
 
 -	Fig 3.1 above (p.30): QA as barriers
 
