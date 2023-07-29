@@ -43,12 +43,12 @@ by Abu Sayed Mahfuz (Author)
 | 10   | Jumat, 14/07/23  | 714222072 | Bernadus Billy Riantono| ✔️ |Test Plant-|
 |      |                  | 714222073 | Ardini Yuanita Lubis	 | ✔️ |-manual trace project testing-|
 |      |                  | 714222074 | Yadi Mulyadi        	 | ✔️ |-report testing|
-| 11   | Jumat, 28/07/23  | 714222072 | Bernadus Billy Riantono| ✔️ |Test Plant-|
-|      |                  | 714222073 | Ardini Yuanita Lubis	 | ✔️ |-manual trace project testing-|
-|      |                  | 714222074 | Yadi Mulyadi        	 | ✔️ |-report testing|
-| 12   | Sabtu, 29/07/23  | 714222072 | Bernadus Billy Riantono| ✔️ |Test Plant-|
-|      |                  | 714222073 | Ardini Yuanita Lubis	 | ✔️ |-manual trace project testing-|
-|      |                  | 714222074 | Yadi Mulyadi        	 | ✔️ |-report testing|
+| 11   | Jumat, 28/07/23  | 714222072 | Bernadus Billy Riantono| ✔️ | QA as Dealing with Defect-|
+|      |                  | 714222073 | Ardini Yuanita Lubis	 | ✔️ |-QA Classification-|
+|      |                  | 714222074 | Yadi Mulyadi        	 | ✔️ |-Defect Measurement and Analysis|
+| 12   | Sabtu, 29/07/23  | 714222072 | Bernadus Billy Riantono| ✔️ |QA in Waterfall Process-|
+|      |                  | 714222073 | Ardini Yuanita Lubis	 | ✔️ |-V&V in Software Process-|
+|      |                  | 714222074 | Yadi Mulyadi        	 | ✔️ |-Viramide Testing (Unit testing, Integration, End to End user)|
 
 # Deskripsi Perkuliahan dan Penilaian
 ## Penilaian 
