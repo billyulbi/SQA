@@ -1,6 +1,7 @@
 # Chapter 11
 ![image](https://github.com/rplulbi/SQA/assets/15622730/de092918-e56f-46f0-84f1-adcb57e0f504)
 ![image](https://github.com/rplulbi/SQA/assets/15622730/9c6aa430-bcd6-4550-87a0-98b4cc8726bb)
+![image](https://github.com/rplulbi/SQA/assets/15622730/19508f4b-8e5a-4c2d-826f-4cae4b777b18)
 ![image](https://github.com/rplulbi/SQA/assets/15622730/cb8c5ffd-3c90-48f8-b49f-233ad613f309)
 
 # Quality Assurance (QA)
