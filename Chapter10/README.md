@@ -1,4 +1,6 @@
 # Chapter 10
+![image](https://github.com/rplulbi/SQA/assets/15622730/6aad08e5-0f51-463d-9ebb-fdba026fa96d)
+![image](https://github.com/rplulbi/SQA/assets/15622730/907087f8-9c80-47ba-8054-2e8da579a50d)
 
 Software Quality Engineering
 ============================
