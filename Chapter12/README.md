@@ -1,4 +1,6 @@
 # Chapter 12
+![image](https://github.com/rplulbi/SQA/assets/15622730/fc339884-5351-440e-976f-5501656079ee)
+![image](https://github.com/rplulbi/SQA/assets/15622730/8810a88d-9331-42df-bbb0-1225052b5e00)
 
 # Quality Engineering
 
