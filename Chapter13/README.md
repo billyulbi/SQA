@@ -124,7 +124,7 @@
 
 -	 Table 10.1 (p.152) for FSM in Fig 10.1
 
-![](../pics/10-t-1.png)
+![image](https://github.com/rplulbi/SQA/assets/15622730/81218ee2-7ca1-4721-af36-574947d7f2ce)
 
 # FSM/Graph Representation
 
@@ -261,7 +261,7 @@
 
 -	 Web layers: Fig. 10.2 (p.158)
 
-![](../pics/10-t-2.png)
+![image](https://github.com/rplulbi/SQA/assets/15622730/d9e89912-c9e9-42d4-aaf3-6d5a01bdedfd)
 
 # Case Study: FSMs for Web Testing
 
@@ -341,7 +341,7 @@
 
 # Markov OP
 
-![](../pics/10-3.png)
+![image](https://github.com/rplulbi/SQA/assets/15622730/dd9aaea2-49b3-4520-a372-cd588a4c7a34)
 
 -	 Example Markov chains: Fig 10.3 (p.162)
 
@@ -353,7 +353,7 @@
 
 -	 Memoryless or Markovian property
 
-![](../pics/10-f-1.png)
+![image](https://github.com/rplulbi/SQA/assets/15622730/f405f925-67f3-4530-9cf7-977c9229a89a)
 
 -	 Markov chain: pij history independent
 
@@ -369,7 +369,7 @@
 
 # UMM Example
 
-![](../pics/10-4.png)
+![image](https://github.com/rplulbi/SQA/assets/15622730/ae218228-8df1-40bd-a61c-f8795390b0ee)
 
 -	 Example UMM
 
@@ -515,7 +515,7 @@
 
 # UMMs: Web Usage Modeling
 
-![](../pics/10-t-3.png)
+![image](https://github.com/rplulbi/SQA/assets/15622730/33115805-93b9-4203-aa80-c8e688a667bd)
 
 -	 Example access log: Fig 10.5 (p.168)
 -	 Web usage modeling based on information extracted from web access logs
@@ -538,7 +538,7 @@
 
 # UMMs: Web Usage Modeling
 
-![](../pics/10-t-4.png)
+![image](https://github.com/rplulbi/SQA/assets/15622730/e525dd32-4c5b-49d7-ad99-42557628757e)
 
 
 -	 Entry pages: Table 10.2 (p.170)
@@ -549,7 +549,8 @@
 
 # UMMs: Web Usage Modeling
 
-![](../pics/10-6.png)
+![image](https://github.com/rplulbi/SQA/assets/15622730/5c50cca8-0654-40fa-a924-ecac2866dca9)
+
 
 -	 Top level model: Fig 10.6 (p.170)
 
