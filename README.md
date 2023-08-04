@@ -48,7 +48,10 @@ by Abu Sayed Mahfuz (Author)
 |      |                  | 714222074 | Yadi Mulyadi        	 | ✔️ |-Defect Measurement and Analysis|
 | 12   | Sabtu, 29/07/23  | 714222072 | Bernadus Billy Riantono| ✔️ |QA in Waterfall Process-|
 |      |                  | 714222073 | Ardini Yuanita Lubis	 | ✔️ |-V&V in Software Process-|
-|      |                  | 714222074 | Yadi Mulyadi        	 | ✔️ |-Viramide Testing (Unit testing, Integration, End to End user)|
+|      |                  | 714222074 | Yadi Mulyadi        	 | ✔️ |-Viramide Testing (Unit testingIntegration EndtoEnd user)|
+| 13   | Jumat, 04/08/23  | 714222072 | Bernadus Billy Riantono| IZIN |Coverage and Usage-|
+|      |                  | 714222073 | Ardini Yuanita Lubis	 | ✔️ |-Testing Based on FSMs-|
+|      |                  | 714222074 | Yadi Mulyadi        	 | ✔️ |-and Markov Chains|
 
 # Deskripsi Perkuliahan dan Penilaian
 ## Penilaian 
