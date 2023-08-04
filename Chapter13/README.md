@@ -1,7 +1,10 @@
 # Chapter 13
 
-
-# Chapter 10. Coverage and Usage Testing Based on FSMs and Markov Chains
+![image](https://github.com/rplulbi/SQA/assets/15622730/8389118e-1f2e-4a59-9346-b94ce37185f6)
+![image](https://github.com/rplulbi/SQA/assets/15622730/8b20f052-cc47-4d6e-a870-44bf32fdb6e7)
+![image](https://github.com/rplulbi/SQA/assets/15622730/648c3a14-c763-4fe8-b689-6eb9f0741b05)
+![image](https://github.com/rplulbi/SQA/assets/15622730/9b24c46a-672e-4d97-b0c9-d44c6865cc49)
+# Coverage and Usage Testing Based on FSMs and Markov Chains
 
 -	 Finite-State Machines (FSMs)
 -	 FSM-Based Testing
