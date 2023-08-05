@@ -4,6 +4,9 @@
 -	 Control Flow Testing (CFT)
 -	 Data Dependency Analysis
 -	 Data Flow Testing (DFT)
+![image](https://github.com/rplulbi/SQA/assets/15622730/058b0b12-4048-4584-bcff-a4b561f0bebd)
+![image](https://github.com/rplulbi/SQA/assets/15622730/30cb71ad-f1fd-481b-98ab-be4e52e5f9f6)
+![image](https://github.com/rplulbi/SQA/assets/15622730/c933eb49-90c4-423f-9eaa-9ff0670329cc)
 
 # Extending FSM for Testing
 
