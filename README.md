@@ -52,6 +52,9 @@ by Abu Sayed Mahfuz (Author)
 | 13   | Jumat, 04/08/23  | 714222072 | Bernadus Billy Riantono| IZIN |Coverage and Usage-|
 |      |                  | 714222073 | Ardini Yuanita Lubis	 | ✔️ |-Testing Based on FSMs-|
 |      |                  | 714222074 | Yadi Mulyadi        	 | ✔️ |-and Markov Chains|
+| 14   | Sabtu, 05/08/23  | 714222072 | Bernadus Billy Riantono| ✔️ |Kahhot.it Control Flow-|
+|      |                  | 714222073 | Ardini Yuanita Lubis	 | ✔️ |-Data Dependency-|
+|      |                  | 714222074 | Yadi Mulyadi        	 | ✔️ |-and Interaction Testing|
 
 # Deskripsi Perkuliahan dan Penilaian
 ## Penilaian 
